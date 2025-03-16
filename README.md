@@ -33,6 +33,8 @@ streamlit run chatbot.py
 ```
 This will open the chatbot interface in your default web browser.
 
+To run Streamlit, navigate to the folder where your chatbot script is stored and execute the above command in **Command Prompt (Windows)**, **VS Code Terminal**, or **Mac/Linux Terminal**. Ensuring that you are in the correct directory is essential before running the command.
+
 ## File Structure
 ```
 chatbot/
@@ -71,3 +73,8 @@ Feel free to enhance this chatbot by improving NLP processing or adding new feat
 ## License
 This project is licensed under the MIT License.
 
+
+
+
+
+      
